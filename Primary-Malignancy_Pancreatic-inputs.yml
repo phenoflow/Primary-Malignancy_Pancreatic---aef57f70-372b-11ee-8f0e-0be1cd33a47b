@@ -1,0 +1,21 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/primary-malignancy_pancreatic-neoplasm---primary.py
+inputModule3:
+  class: File
+  path: python/primary-malignancy_pancreatic-islet---primary.py
+inputModule4:
+  class: File
+  path: python/primary-malignancy_pancreatic-specified---primary.py
+inputModule5:
+  class: File
+  path: python/primary-malignancy_pancreatic---primary.py
+inputModule6:
+  class: File
+  path: python/malignant-neoplasm-pancreas-primary-malignancy_pancreatic---secondary.py
+inputModule7:
+  class: File
+  path: python/output-cases.py
